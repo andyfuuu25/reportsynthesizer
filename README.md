@@ -50,8 +50,7 @@ Skill 4 Template:
 1) Insert “data\_audit” into the chat window along with the generated report, source files & charts & prompt (e.g., Read data\_audit.md for instructions; follow exactly what is listed there. Ignore the open source section for the data audit.)  
 2) If the audit returns an issue, either manually fix the identified issue or copy the diagnosis to Gemini to debug/verify  
 3) Manually adjust any suggestions/corrections
-
-**\*Note:** skills.md file is included in the email submission  
+  
 **Works Cited:** 
 
 - Shin, Donghun & Li, Xigui & Li, Hui & Shi, Shaojie & Chen, Kaitao & Fu, Daocheng. (2024). Prompt Engineering and Format on LLMs in the Financial Domain. 10.13140/RG.2.2.17057.11365.   
