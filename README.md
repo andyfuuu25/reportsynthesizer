@@ -41,7 +41,8 @@ Skill 4 Template:
 
 **General Procedure**
 
-1) Use Markitdown to convert PDF files into .md formatting  
+1) Use Markitdown to convert PDF files into .md formatting and compile in terminal via (Get-ChildItem -Path insert file names here -Filter *.md | Get-Content | Out-File -FilePath combined.md -Encoding utf8
+)
 2) Upload ‘skill.md’, all parsed files, and the customized prompt into the LLM  
 3) Copy output into a Google Doc for manual formatting
 
