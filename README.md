@@ -1,4 +1,4 @@
-# reportsynthesizer
+# Report Synthesizer
 ### **Synopsis:** 
 
 **System Overview**  
